@@ -4,6 +4,6 @@ demonstrating how to use GitHub
 The list of participants in this demo are:
 
 - Ethan M. Meyers
-- Gargi R. Chug
+- Gargi Chug
 
 
