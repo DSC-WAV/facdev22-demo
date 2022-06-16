@@ -9,3 +9,4 @@ The list of participants in this demo are:
 - Gargi R. Chug
 - Charu Trivedi
 - Ileana Vasu
+- Eric Carreira
