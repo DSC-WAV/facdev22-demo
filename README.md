@@ -10,3 +10,4 @@ The list of participants in this demo are:
 - Charu Trivedi
 - Ileana Vasu
 - Eric Carreira
+- Nic Schwab
