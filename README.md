@@ -11,3 +11,4 @@ The list of participants in this demo are:
 - Ileana Vasu
 - Eric Carreira
 - Mya T. Bowen
+- Daniel Misco 
