@@ -5,5 +5,5 @@ The list of participants in this demo are:
 
 - Ethan M. Meyers
 
-- Nic Schwab
+- My name is Nic Schwab
 
