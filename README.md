@@ -1,4 +1,9 @@
 # facdev22-demo
-demostrating how to use GitHub
 
-Name: Charu Trivedi
+demonstrating how to use GitHub
+
+The list of participants in this demo are:
+
+- Ethan M. Meyers
+- Charu Trivedi
+- Ileana
