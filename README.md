@@ -9,3 +9,5 @@ The list of participants in this demo are:
 - Renee Tetrault
 - Charu Trivedi
 - Ileana Vasu
+- Eric Carreira
+- Mya T. Bowen
